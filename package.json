@@ -1,0 +1,19 @@
+{
+  "name": "session-3-aljeifoaeaf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "halo": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "dayjs": "^1.11.6"
+  }
+}
